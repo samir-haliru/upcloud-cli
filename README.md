@@ -115,5 +115,3 @@ Once the pull request is created, please make changes to your branch based on th
 ## License
 
 [MIT license](LICENSE)
-
-shaliru
